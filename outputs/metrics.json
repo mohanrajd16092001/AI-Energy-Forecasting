@@ -1,0 +1,11 @@
+{
+  "data_source": "SIMULATED DATA",
+  "evaluation": "Last 20% of chronological records",
+  "test_records": 576,
+  "test_start": "2025-04-07 00:00:00",
+  "test_end": "2025-04-30 23:00:00",
+  "energy_unit": "kWh per hourly interval",
+  "MAE": 1.6927112838434963,
+  "RMSE": 2.107821962733331,
+  "R2": 0.9587620275778981
+}
